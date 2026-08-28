@@ -6,28 +6,15 @@
 
 **Código • Aprendizado • Evolução**
 
-</div>
-
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│ perfil de Keynan Santos                                             │
-│ estudante de Desenvolvimento de Sistemas                            │
-│ SENAI Luiz Varga • SESI CE 005                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+</div> <div style="border: 2px solid #39FF14; border-radius: 10px; padding: 18px; background-color: #0D1117; color: #FFFFFF;">
 
 ## Sobre mim
 
-```
-Sou estudante de Desenvolvimento de Sistemas no SENAI Luiz Varga
- e aluno do SESI CE 005.
+Sou estudante de **Desenvolvimento de Sistemas no SENAI Luiz Varga** e aluno do **SESI CE 005**. Estou construindo minha base em tecnologia por meio de atividades acadêmicas, exercícios práticos e projetos de programação.
 
-Estou construindo minha base em tecnologia através de atividades
-acadêmicas, exercícios práticos e projetos de programação.
+Tenho interesse em desenvolvimento web, back-end, lógica de programação e bancos de dados. Gosto de entender os problemas, dividir as soluções em partes menores e transformar o aprendizado em projetos funcionais e bem organizados.
 
-Tenho interesse em desenvolvimento web, back-end, lógica de
-programação e bancos de dados.
-```
+</div> <div style="border: 2px solid #39FF14; border-radius: 10px; padding: 18px; background-color: #0D1117; color: #FFFFFF;">
 
 ## Navegação rápida
 
@@ -39,55 +26,49 @@ programação e bancos de dados.
 | Acessar todos os repositórios | [Meu GitHub](https://github.com/estudantekeynan-lgtm?tab=repositories) |
 | Conhecer meu projeto acadêmico principal | [Lógica de Programação 2](https://github.com/estudantekeynan-lgtm/logica_de_programacao2) |
 
+</div> <div style="border: 2px solid #39FF14; border-radius: 10px; padding: 18px; background-color: #0D1117; color: #FFFFFF;">
+
 ## Projetos em destaque
 
-```
-┌─ Lógica de Programação 2 ───────────────────────────────────────────┐
-│ Atividades acadêmicas de programação, desenvolvimento web, banco     │
-│ de dados e back-end.                                                 │
-│                                                                      │
-│ JavaScript • Node.js • HTML • CSS • Python • SQL                     │
-└──────────────────────────────────────────────────────────────────────┘
-```
+### Lógica de Programação 2
 
-[Ver projeto Lógica de Programação 2](https://github.com/estudantekeynan-lgtm/logica_de_programacao2)
+Atividades acadêmicas de programação, desenvolvimento web, banco de dados e back-end, reunindo exercícios e projetos desenvolvidos durante os estudos.
 
-```
-┌─ Projeto Discord ────────────────────────────────────────────────────┐
-│ Projeto prático publicado no meu perfil, desenvolvido como parte     │
-│ da minha jornada de estudos em programação.                         │
-└──────────────────────────────────────────────────────────────────────┘
-```
+**Tecnologias:** JavaScript, Node.js, HTML, CSS, Python e SQL.
 
-[Ver projeto Discord](https://github.com/estudantekeynan-lgtm/projeto_discord)
+[Ver repositório](https://github.com/estudantekeynan-lgtm/logica_de_programacao2)
 
-```
-┌─ Repositórios de estudo ─────────────────────────────────────────────┐
-│ Exercícios, atividades acadêmicas e projetos em constante evolução.  │
-└──────────────────────────────────────────────────────────────────────┘
-```
+### Projeto Discord
+
+Projeto prático publicado no meu perfil como parte da minha jornada de estudos em programação.
+
+[Ver projeto](https://github.com/estudantekeynan-lgtm/projeto_discord)
+
+### Repositórios de estudo
+
+Exercícios, atividades acadêmicas e projetos em constante evolução.
 
 [Ver todos os repositórios](https://github.com/estudantekeynan-lgtm?tab=repositories)
 
+</div> <div style="border: 2px solid #39FF14; border-radius: 10px; padding: 18px; background-color: #0D1117; color: #FFFFFF;">
+
 ## Tecnologias
 
-```
-┌─ linguagens ─────────────────────────────────────────────────────────┐
-│ Python • JavaScript • HTML • CSS                                    │
-├─ desenvolvimento web ────────────────────────────────────────────────┤
-│ HTML semântico • páginas estáticas • CSS                             │
-├─ back-end ────────────────────────────────────────────────────────────┤
-│ Node.js • npm • scripts interativos • lógica de negócio              │
-├─ banco de dados ──────────────────────────────────────────────────────┤
-│ SQL • entidades • relacionamentos • modelagem de dados               │
-├─ versionamento ───────────────────────────────────────────────────────┤
-│ Git • GitHub                                                          │
-└──────────────────────────────────────────────────────────────────────┘
-```
+| Frente | Tecnologias e conceitos |
+| --- | --- |
+| **Linguagens** | Python, JavaScript, HTML e CSS |
+| **Web** | HTML semântico, páginas estáticas e CSS |
+| **Back-end** | Node.js, npm, scripts interativos e lógica de negócio |
+| **Banco de dados** | SQL, entidades, relacionamentos e modelagem de dados |
+| **Versionamento** | Git e GitHub |
+
+</div> <div style="border: 2px solid #39FF14; border-radius: 10px; padding: 18px; background-color: #0D1117; color: #FFFFFF;">
 
 ## Meu princípio técnico
 
-> Não quero apenas fazer algo funcionar. Quero entender o problema, organizar a solução, escrever código compreensível e registrar o que aprendi para melhorar na próxima versão.
+Não quero apenas fazer algo funcionar. Quero entender o problema, organizar a solução, escrever código compreensível e registrar o que aprendi para melhorar na próxima versão.
+
+</div> <div style="border: 2px solid #39FF14; border-radius: 10px; padding: 18px; background-color: #0D1117; color: #FFFFFF;">
 
 ## Minha trilha
 
@@ -99,6 +80,8 @@ Fundamentos  ───▶  Projetos práticos  ───▶  Web e back-end  ─
 
 A cada atividade, procuro avançar em três dimensões: **construir**, para transformar conceitos em algo executável; **entender**, para aprender com os erros e decisões; e **melhorar**, para comparar cada versão com a próxima.
 
+</div> <div style="border: 2px solid #39FF14; border-radius: 10px; padding: 18px; background-color: #0D1117; color: #FFFFFF;">
+
 ## Como aprendo e construo
 
 | Etapa | Pergunta que orienta o trabalho |
@@ -109,15 +92,15 @@ A cada atividade, procuro avançar em três dimensões: **construir**, para tran
 | **04** | Como posso testar se a solução funciona? |
 | **05** | O que posso melhorar na próxima versão? |
 
+</div> <div style="border: 2px solid #39FF14; border-radius: 10px; padding: 18px; background-color: #0D1117; color: #FFFFFF;">
+
 ## Próximos passos
 
-```
-objetivo_01: evoluir em desenvolvimento web
-objetivo_02: aprofundar conhecimentos em back-end
-objetivo_03: praticar bancos de dados e SQL
-objetivo_04: publicar projetos cada vez mais completos
-estado: em constante evolução
-```
+Quero continuar evoluindo meus conhecimentos em desenvolvimento web, back-end e bancos de dados, transformando exercícios acadêmicos em projetos cada vez mais completos, organizados e bem documentados.
+
+Também busco ampliar meu repertório, melhorar a qualidade dos meus códigos e construir soluções que demonstrem minha evolução técnica.
+
+</div> <div style="border: 2px solid #39FF14; border-radius: 10px; padding: 18px; background-color: #0D1117; color: #FFFFFF;">
 
 ## Meu GitHub
 
@@ -127,7 +110,7 @@ Acompanhe meus repositórios, estudos e próximos projetos diretamente no [meu G
 
 Estou sempre aberto a aprender, colaborar e conhecer novas oportunidades na área de tecnologia.
 
-<div align="center">
+</div> <div align="center">
 
 [![Meu GitHub](https://img.shields.io/badge/Meu%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/estudantekeynan-lgtm)
 
