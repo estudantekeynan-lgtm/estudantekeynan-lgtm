@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663921106151/TZcmXhLQggOfQsad.gif" alt="Keynan Santos aparecendo em uma animação de digitação" width="100%" />
+<div align="center"> <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663921106151/HCGovQgIzLHNaNWD.gif" alt="Keynan Santos aparecendo em uma animação de digitação" width="100%" />
 
 ### Desenvolvedor em formação • Web • Back-end • Banco de Dados
 
