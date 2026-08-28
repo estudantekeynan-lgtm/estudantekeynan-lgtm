@@ -1,6 +1,4 @@
-<div align="center">
-
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Keynan+Santos" alt="Keynan Santos" />
+<div align="center"> <img src="./assets/keynan-banner.gif" alt="Keynan Santos aparecendo em uma animação de digitação" width="100%" />
 
 ### Desenvolvedor em formação • Web • Back-end • Banco de Dados
 
