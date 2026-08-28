@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663921106151/FAgiMXntPBDtcqRg.gif" alt="Terminal digitando Keynan Santos" width="100%" />
+<div align="center"> <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663921106151/HCGovQgIzLHNaNWD.gif" alt="Terminal digitando Keynan Santos" width="100%" />
 
 ### Desenvolvedor em formação • Web • Back-end • Banco de Dados
 
@@ -9,107 +9,107 @@
 </div>
 
 ```
-> perfil.init()
-> status: online
-> usuário: Keynan Santos
-> foco: desenvolvimento de sistemas
+┌──────────────────────────────────────────────────────────────────────┐
+│ perfil de Keynan Santos                                             │
+│ estudante de Desenvolvimento de Sistemas                            │
+│ SENAI Luiz Varga • SESI CE 005                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-## `$ sobre_mim`
+## Sobre mim
 
 ```
 Sou estudante de Desenvolvimento de Sistemas no SENAI Luiz Varga
  e aluno do SESI CE 005.
 
-Estou construindo minha base em tecnologia por meio de atividades
+Estou construindo minha base em tecnologia através de atividades
 acadêmicas, exercícios práticos e projetos de programação.
 
-Interesses:
-- desenvolvimento web
-- programação back-end
-- lógica de programação
-- bancos de dados
+Tenho interesse em desenvolvimento web, back-end, lógica de
+programação e bancos de dados.
 ```
 
-## `$ navegação`
+## Navegação rápida
+
+| Se você quer... | Acesse |
+| --- | --- |
+| Conhecer meus projetos | [Projetos em destaque](#projetos-em-destaque) |
+| Ver minha base técnica | [Tecnologias](#tecnologias) |
+| Entender minha evolução | [Minha trilha](#minha-trilha) |
+| Acessar todos os repositórios | [Meu GitHub](https://github.com/estudantekeynan-lgtm?tab=repositories) |
+| Conhecer meu projeto acadêmico principal | [Lógica de Programação 2](https://github.com/estudantekeynan-lgtm/logica_de_programacao2) |
+
+## Projetos em destaque
 
 ```
-[01] -> Projetos em destaque
-[02] -> Tecnologias
-[03] -> Meu princípio técnico
-[04] -> Minha trilha
-[05] -> Como aprendo e construo
-[06] -> Próximos passos
-[07] -> Meu GitHub
-[08] -> Contato
+┌─ Lógica de Programação 2 ───────────────────────────────────────────┐
+│ Atividades acadêmicas de programação, desenvolvimento web, banco     │
+│ de dados e back-end.                                                 │
+│                                                                      │
+│ JavaScript • Node.js • HTML • CSS • Python • SQL                     │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-## `$ projetos.list()`
+[Ver projeto Lógica de Programação 2](https://github.com/estudantekeynan-lgtm/logica_de_programacao2)
 
 ```
-[01] Lógica de Programação 2
-     Atividades acadêmicas de programação, desenvolvimento web,
-     banco de dados e back-end.
-     https://github.com/estudantekeynan-lgtm/logica_de_programacao2
-
-[02] Projeto Discord
-     Projeto prático publicado no meu perfil.
-     https://github.com/estudantekeynan-lgtm/projeto_discord
-
-[03] Repositórios de estudo
-     Exercícios, atividades acadêmicas e projetos em evolução.
-     https://github.com/estudantekeynan-lgtm?tab=repositories
+┌─ Projeto Discord ────────────────────────────────────────────────────┐
+│ Projeto prático publicado no meu perfil, desenvolvido como parte     │
+│ da minha jornada de estudos em programação.                         │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-## `$ tecnologias --list`
+[Ver projeto Discord](https://github.com/estudantekeynan-lgtm/projeto_discord)
 
 ```
-[linguagens]
-  Python, JavaScript, HTML e CSS
-
-[web]
-  HTML semântico, páginas estáticas e CSS
-
-[back-end]
-  Node.js, npm, scripts interativos e lógica de negócio
-
-[banco_de_dados]
-  SQL, entidades, relacionamentos e modelagem de dados
-
-[versionamento]
-  Git e GitHub
+┌─ Repositórios de estudo ─────────────────────────────────────────────┐
+│ Exercícios, atividades acadêmicas e projetos em constante evolução.  │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-## `$ princípio_tecnico`
+[Ver todos os repositórios](https://github.com/estudantekeynan-lgtm?tab=repositories)
+
+## Tecnologias
 
 ```
-Não quero apenas fazer algo funcionar.
-Quero entender o problema, organizar a solução,
-escrever código compreensível e melhorar a próxima versão.
+┌─ linguagens ─────────────────────────────────────────────────────────┐
+│ Python • JavaScript • HTML • CSS                                    │
+├─ desenvolvimento web ────────────────────────────────────────────────┤
+│ HTML semântico • páginas estáticas • CSS                             │
+├─ back-end ────────────────────────────────────────────────────────────┤
+│ Node.js • npm • scripts interativos • lógica de negócio              │
+├─ banco de dados ──────────────────────────────────────────────────────┤
+│ SQL • entidades • relacionamentos • modelagem de dados               │
+├─ versionamento ───────────────────────────────────────────────────────┤
+│ Git • GitHub                                                          │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-## `$ minha_trilha`
+## Meu princípio técnico
+
+> Não quero apenas fazer algo funcionar. Quero entender o problema, organizar a solução, escrever código compreensível e registrar o que aprendi para melhorar na próxima versão.
+
+## Minha trilha
 
 ```
-[ fundamentos ] ----> [ projetos práticos ] ----> [ web e back-end ]
-       ^                         |                         |
-       |                         v                         v
-       +---------- estudar <----+---- testar e documentar+
+Fundamentos  ───▶  Projetos práticos  ───▶  Web e back-end  ───▶  Novos desafios
+      ▲                    │                       │
+      └──── estudar ◀─────┴──── testar e documentar
 ```
 
 A cada atividade, procuro avançar em três dimensões: **construir**, para transformar conceitos em algo executável; **entender**, para aprender com os erros e decisões; e **melhorar**, para comparar cada versão com a próxima.
 
-## `$ como_eu_aprendo`
+## Como aprendo e construo
 
-```
-01 > Qual problema estou tentando resolver?
-02 > Como posso dividir a ideia em partes menores?
-03 > Quais conceitos preciso estudar ou revisar?
-04 > Como posso testar se a solução funciona?
-05 > O que posso melhorar na próxima versão?
-```
+| Etapa | Pergunta que orienta o trabalho |
+| --- | --- |
+| **01** | Qual problema estou tentando resolver? |
+| **02** | Como posso dividir a ideia em partes menores? |
+| **03** | Quais conceitos preciso estudar ou revisar? |
+| **04** | Como posso testar se a solução funciona? |
+| **05** | O que posso melhorar na próxima versão? |
 
-## `$ próximos_passos`
+## Próximos passos
 
 ```
 objetivo_01: evoluir em desenvolvimento web
@@ -119,24 +119,20 @@ objetivo_04: publicar projetos cada vez mais completos
 estado: em constante evolução
 ```
 
-## `$ github.open( )`
+## Meu GitHub
 
-Acompanhe meus repositórios, estudos e próximos projetos no [meu GitHub](https://github.com/estudantekeynan-lgtm).
+Acompanhe meus repositórios, estudos e próximos projetos diretamente no [meu GitHub](https://github.com/estudantekeynan-lgtm).
 
-## `$ contato`
+## Vamos conversar
 
-```
-> disponibilidade: aprender e colaborar
-> interesse: desenvolvimento de sistemas
-> próximo_comando: construir novos projetos
-```
+Estou sempre aberto a aprender, colaborar e conhecer novas oportunidades na área de tecnologia.
 
 <div align="center">
 
-```
-Sempre aprendendo. Sempre evoluindo. Sempre programando.
-```
+[![Meu GitHub](https://img.shields.io/badge/Meu%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/estudantekeynan-lgtm)
 
-[Voltar ao topo](#-sobre_mim)
+### Sempre aprendendo. Sempre evoluindo. Sempre programando.
+
+[Voltar ao topo](#sobre-mim)
 
 </div>
