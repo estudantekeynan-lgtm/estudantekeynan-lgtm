@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663921106151/HCGovQgIzLHNaNWD.gif" alt="Terminal digitando Keynan Santos" width="100%" />
+<div align="center"> <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663921106151/FAgiMXntPBDtcqRg.gif" alt="Terminal digitando Keynan Santos" width="100%" />
 
 ### Desenvolvedor em formação • Web • Back-end • Banco de Dados
 
@@ -10,64 +10,85 @@
 
 ```
 > perfil.init()
-> status: estudante de desenvolvimento de sistemas
-> foco: web | back-end | banco de dados
+> status: online
+> usuário: Keynan Santos
+> foco: desenvolvimento de sistemas
 ```
 
-## Sobre mim
-
-Sou estudante de **Desenvolvimento de Sistemas no SENAI Luiz Varga** e aluno do **SESI CE 005**. Estou construindo minha base em tecnologia por meio de atividades acadêmicas, exercícios práticos e projetos de programação.
-
-Tenho interesse em desenvolvimento web, back-end, lógica de programação e bancos de dados. Gosto de entender os problemas, dividir as soluções em partes menores e transformar o aprendizado em projetos funcionais e bem organizados.
+## `$ sobre_mim`
 
 ```
-localização: Brasil
-formação: SENAI Luiz Varga + SESI CE 005
-modo: aprender | praticar | evoluir
+Sou estudante de Desenvolvimento de Sistemas no SENAI Luiz Varga
+ e aluno do SESI CE 005.
+
+Estou construindo minha base em tecnologia por meio de atividades
+acadêmicas, exercícios práticos e projetos de programação.
+
+Interesses:
+- desenvolvimento web
+- programação back-end
+- lógica de programação
+- bancos de dados
 ```
 
-## Navegação rápida
+## `$ navegação`
 
 ```
-[01] Projetos em destaque  -> projetos e estudos publicados
-[02] Tecnologias            -> minha base técnica
-[03] Minha trilha           -> minha evolução profissional
-[04] Meu GitHub             -> todos os meus repositórios
-[05] Contato                -> próximos passos
+[01] -> Projetos em destaque
+[02] -> Tecnologias
+[03] -> Meu princípio técnico
+[04] -> Minha trilha
+[05] -> Como aprendo e construo
+[06] -> Próximos passos
+[07] -> Meu GitHub
+[08] -> Contato
 ```
 
-## Projetos em destaque
-
-| Projeto | Descrição | Foco |
-| --- | --- | --- |
-| [Lógica de Programação 2](https://github.com/estudantekeynan-lgtm/logica_de_programacao2) | Atividades acadêmicas de programação, desenvolvimento web, banco de dados e back-end | JavaScript, Node.js, HTML, CSS, Python e SQL |
-| [Projeto Discord](https://github.com/estudantekeynan-lgtm/projeto_discord) | Projeto prático publicado no meu perfil | Desenvolvimento web e programação |
-| [Todos os repositórios](https://github.com/estudantekeynan-lgtm?tab=repositories) | Exercícios, estudos e projetos em evolução | Tecnologias variadas |
+## `$ projetos.list()`
 
 ```
-> projetos.list()
-> resultado: estudos práticos em constante evolução
+[01] Lógica de Programação 2
+     Atividades acadêmicas de programação, desenvolvimento web,
+     banco de dados e back-end.
+     https://github.com/estudantekeynan-lgtm/logica_de_programacao2
+
+[02] Projeto Discord
+     Projeto prático publicado no meu perfil.
+     https://github.com/estudantekeynan-lgtm/projeto_discord
+
+[03] Repositórios de estudo
+     Exercícios, atividades acadêmicas e projetos em evolução.
+     https://github.com/estudantekeynan-lgtm?tab=repositories
 ```
 
-## Tecnologias
+## `$ tecnologias --list`
 
 ```
-linguagens       : Python, JavaScript, HTML, CSS
-web              : HTML semântico, páginas estáticas e CSS
-back-end         : Node.js, npm e scripts interativos
-banco de dados   : SQL, entidades e relacionamentos
-versionamento    : Git e GitHub
+[linguagens]
+  Python, JavaScript, HTML e CSS
+
+[web]
+  HTML semântico, páginas estáticas e CSS
+
+[back-end]
+  Node.js, npm, scripts interativos e lógica de negócio
+
+[banco_de_dados]
+  SQL, entidades, relacionamentos e modelagem de dados
+
+[versionamento]
+  Git e GitHub
 ```
 
-## Meu princípio técnico
+## `$ princípio_tecnico`
 
 ```
-> não quero apenas fazer algo funcionar.
-> quero entender o problema, organizar a solução,
-> escrever código compreensível e melhorar a próxima versão.
+Não quero apenas fazer algo funcionar.
+Quero entender o problema, organizar a solução,
+escrever código compreensível e melhorar a próxima versão.
 ```
 
-## Minha trilha
+## `$ minha_trilha`
 
 ```
 [ fundamentos ] ----> [ projetos práticos ] ----> [ web e back-end ]
@@ -78,7 +99,7 @@ versionamento    : Git e GitHub
 
 A cada atividade, procuro avançar em três dimensões: **construir**, para transformar conceitos em algo executável; **entender**, para aprender com os erros e decisões; e **melhorar**, para comparar cada versão com a próxima.
 
-## Como aprendo e construo
+## `$ como_eu_aprendo`
 
 ```
 01 > Qual problema estou tentando resolver?
@@ -88,26 +109,26 @@ A cada atividade, procuro avançar em três dimensões: **construir**, para tran
 05 > O que posso melhorar na próxima versão?
 ```
 
-## Próximos passos
-
-Quero continuar evoluindo meus conhecimentos em desenvolvimento web, back-end e bancos de dados, transformando exercícios acadêmicos em projetos mais completos, organizados e bem documentados.
+## `$ próximos_passos`
 
 ```
-> objetivo: aprender, construir e publicar mais projetos
-> estado: em evolução
+objetivo_01: evoluir em desenvolvimento web
+objetivo_02: aprofundar conhecimentos em back-end
+objetivo_03: praticar bancos de dados e SQL
+objetivo_04: publicar projetos cada vez mais completos
+estado: em constante evolução
 ```
 
-## Meu GitHub
+## `$ github.open( )`
 
-Acompanhe meus repositórios, estudos e próximos projetos diretamente no [meu GitHub](https://github.com/estudantekeynan-lgtm).
+Acompanhe meus repositórios, estudos e próximos projetos no [meu GitHub](https://github.com/estudantekeynan-lgtm).
 
-## Contato
-
-Estou sempre aberto a aprender, colaborar e conhecer novas oportunidades na área de tecnologia.
+## `$ contato`
 
 ```
-> github.open("estudantekeynan-lgtm")
 > disponibilidade: aprender e colaborar
+> interesse: desenvolvimento de sistemas
+> próximo_comando: construir novos projetos
 ```
 
 <div align="center">
@@ -116,6 +137,6 @@ Estou sempre aberto a aprender, colaborar e conhecer novas oportunidades na áre
 Sempre aprendendo. Sempre evoluindo. Sempre programando.
 ```
 
-[Voltar ao topo](#sobre-mim)
+[Voltar ao topo](#-sobre_mim)
 
 </div>
