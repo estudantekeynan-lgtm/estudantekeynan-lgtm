@@ -6,48 +6,57 @@
 
 **Código • Aprendizado • Evolução**
 
-</div> <div align="center">
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663921106151/ZhJXIkcRWloRHXVA.png" alt="Sobre mim em uma janela de terminal" width="100%" />
-</div>
+</div> <p align="center">
+<a href="#sobre-mim">Sobre mim</a> •
+  <a href="#projetos-em-destaque">Projetos</a> •
+  <a href="#tecnologias">Tecnologias</a> •
+  <a href="#minha-trilha">Minha trilha</a> •
+  <a href="#contato">Contato</a>
+</p>
 
-## Navegação rápida
+---
 
-<div align="center">
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663921106151/AkHrIGZjKwJUhDRv.png" alt="Navegação rápida em uma janela de terminal" width="100%" />
-</div>
+## Sobre mim
 
-| Seção | Acesso |
-| --- | --- |
-| Projetos em destaque | [Ver projetos](#projetos-em-destaque) |
-| Tecnologias | [Ver tecnologias](#tecnologias) |
-| Minha trilha | [Ver minha trilha](#minha-trilha) |
-| Meu GitHub | [Acessar perfil](https://github.com/estudantekeynan-lgtm?tab=repositories) |
+Sou estudante de **Desenvolvimento de Sistemas no SENAI Luiz Varga** e aluno do **SESI CE 005**. Estou construindo minha base em tecnologia por meio de atividades acadêmicas, exercícios práticos e projetos de programação.
+
+Tenho interesse em desenvolvimento web, back-end, lógica de programação e bancos de dados. Gosto de entender os problemas, dividir as soluções em partes menores e transformar o aprendizado em projetos funcionais e bem organizados.
+
+| Localização | Formação | Momento atual |
+| --- | --- | --- |
+| Brasil | SENAI Luiz Varga e SESI CE 005 | Desenvolvedor em formação |
 
 ## Projetos em destaque
 
-<div align="center">
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663921106151/vvxKTBSsNSDBBJHc.png" alt="Projetos em destaque em uma janela de terminal" width="100%" />
-</div>
+### [Lógica de Programação 2](https://github.com/estudantekeynan-lgtm/logica_de_programacao2)
 
-- [Lógica de Programação 2](https://github.com/estudantekeynan-lgtm/logica_de_programacao2): atividades acadêmicas de programação, desenvolvimento web, banco de dados e back-end.
+Repositório acadêmico com atividades de programação, desenvolvimento web, banco de dados e back-end.
 
-- [Projeto Discord](https://github.com/estudantekeynan-lgtm/projeto_discord): projeto prático publicado no meu perfil.
+**Tecnologias:** JavaScript, Node.js, HTML, CSS, Python e SQL.
 
-- [Todos os repositórios](https://github.com/estudantekeynan-lgtm?tab=repositories): exercícios, estudos e projetos em evolução.
+### [Projeto Discord](https://github.com/estudantekeynan-lgtm/projeto_discord)
+
+Projeto prático publicado como parte da minha jornada de estudos em programação.
+
+### [Todos os repositórios](https://github.com/estudantekeynan-lgtm?tab=repositories)
+
+Exercícios, estudos acadêmicos e projetos em constante evolução.
 
 ## Tecnologias
 
-<div align="center">
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663921106151/idzFeQElyeUmAzvB.png" alt="Tecnologias em uma janela de terminal" width="100%" />
-</div>
-
 | Área | Tecnologias |
 | --- | --- |
-| Linguagens | Python, JavaScript, HTML e CSS |
-| Web | HTML semântico, páginas estáticas e CSS |
-| Back-end | Node.js, npm e scripts interativos |
-| Banco de dados | SQL, entidades, relacionamentos e modelagem de dados |
-| Versionamento | Git e GitHub |
+| **Programação** | Python e JavaScript |
+| **Desenvolvimento web** | HTML e CSS |
+| **Back-end** | Node.js e npm |
+| **Banco de dados** | SQL e modelagem de dados |
+| **Versionamento** | Git e GitHub |
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 ## Meu princípio técnico
 
@@ -55,9 +64,11 @@
 
 ## Minha trilha
 
-<div align="center">
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663921106151/fAqtwIGUKxkrXHzW.png" alt="Minha trilha em uma janela de terminal" width="100%" />
-</div>
+```
+Fundamentos  ───▶  Projetos práticos  ───▶  Web e back-end  ───▶  Novos desafios
+      ▲                    │                       │
+      └──── estudar ◀─────┴──── testar e documentar
+```
 
 A cada atividade, procuro avançar em três dimensões: **construir**, para transformar conceitos em algo executável; **entender**, para aprender com os erros e decisões; e **melhorar**, para comparar cada versão com a próxima.
 
@@ -71,15 +82,19 @@ A cada atividade, procuro avançar em três dimensões: **construir**, para tran
 | **04** | Como posso testar se a solução funciona? |
 | **05** | O que posso melhorar na próxima versão? |
 
-## Próximos passos e contato
-
-<div align="center">
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663921106151/ETmgpzMVyDlkkXRb.png" alt="Próximos passos em uma janela de terminal" width="100%" />
-</div>
+## Próximos passos
 
 Quero continuar evoluindo meus conhecimentos em desenvolvimento web, back-end e bancos de dados, transformando exercícios acadêmicos em projetos cada vez mais completos, organizados e bem documentados.
 
-Acompanhe meus estudos e projetos no [meu GitHub](https://github.com/estudantekeynan-lgtm). Estou sempre aberto a aprender, colaborar e conhecer novas oportunidades na área de tecnologia.
+Também busco ampliar meu repertório, melhorar a qualidade dos meus códigos e construir soluções que demonstrem minha evolução técnica.
+
+## Meu GitHub
+
+Acompanhe meus repositórios, estudos e próximos projetos diretamente no [meu GitHub](https://github.com/estudantekeynan-lgtm).
+
+## Contato
+
+Estou sempre aberto a aprender, colaborar e conhecer novas oportunidades na área de tecnologia.
 
 <div align="center">
 
