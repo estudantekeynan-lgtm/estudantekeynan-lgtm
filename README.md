@@ -14,7 +14,6 @@
 Plain Text
 
 
-cat perfil.txt
 
 nome        : Keynan Fellipe dos Santos
 ocupação    : Desenvolvedor em formação
@@ -30,7 +29,6 @@ status      : aprendendo, construindo e evoluindo
 Plain Text
 
 
-cat sobre-mim.txt
 
 Sou estudante de Desenvolvimento de Sistemas no SENAI Luiz Varga
  e aluno do SESI CE 005. Estou construindo minha base em tecnologia
@@ -48,18 +46,12 @@ organizados e bem documentados.
 Plain Text
 
 
-ls -la ./projetos
 
-drwxr-xr-x  logica-de-programacao-2/
-drwxr-xr-x  projeto-discord/
-drwxr-xr-x  repositorios-em-evolucao/
 
-cat ./projetos/logica-de-programacao-2/README.txt
 Repositório acadêmico com atividades de programação,
 desenvolvimento web, banco de dados e back-end.
 Tecnologias: JavaScript, Node.js, HTML, CSS, Python e SQL.
 
-cat ./projetos/projeto-discord/README.txt
 Projeto prático publicado como parte da minha jornada
 de estudos em programação.
 
@@ -78,7 +70,6 @@ de estudos em programação.
 Plain Text
 
 
-cat stack.conf
 
 [linguagens]
 python       = estudos
@@ -141,7 +132,6 @@ Plain Text
 Plain Text
 
 
-cat principio-tecnico.txt
 
 Não quero apenas fazer algo funcionar.
 Quero entender o problema, organizar a solução, escrever código
@@ -157,7 +147,6 @@ compreensível e registrar o que aprendi para melhorar na próxima versão.
 Plain Text
 
 
-cat proximos-passos.txt
 
 [ ] continuar evoluindo em desenvolvimento web
 [ ] aprofundar conhecimentos em back-end
@@ -173,7 +162,6 @@ cat proximos-passos.txt
 Plain Text
 
 
-cat contato.conf
 
 email    = estudantekeynan@gmail.com
 linkedin = linkedin.com/in/keynan-fellipe-dos-santos-82b6ba405
