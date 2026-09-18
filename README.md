@@ -1,165 +1,147 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=KEYNAN%20FELLIPE&fontColor=58a6ff&fontSize=34&fontAlignY=55&desc=DESENVOLVEDOR%20EM%20FORMA%C3%87%C3%83O&descAlignY=78&descSize=15&descColor=c9d1d9" width="100%" />
+</div> <div align="center">
+  <img src="https://img.shields.io/badge/STATUS-EM%20FORMA%C3%87%C3%83O-58a6ff?style=for-the-badge&labelColor=161b22" alt="Status: em formação" />
+  <img src="https://img.shields.io/badge/FOCO-WEB%20%7C%20BACK--END-58a6ff?style=for-the-badge&labelColor=161b22" alt="Foco: web e back-end" />
+  <img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-BRASIL-58a6ff?style=for-the-badge&labelColor=161b22" alt="Localização: Brasil" />
+</div>   
 
-<!-- Cabeçalho Principal -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050e06&stroke=22c55e&strokeWidth=2&height=180&text=Keynan%20Santos&fontColor=22c55e&fontSize=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descSize=18&descAlignY=70&descColor=22c55e" width="100%" />
 
-<p align="center">
-  <code>Desenvolvedor em formação</code> • <code>Web</code> • <code>Back-end</code> • <code>Banco de Dados</code>
-</p>
 
-<!-- Botões de Tecnologias Funcionais -->
-<p align="center">
-  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories&q=&type=&language=python"><img src="https://img.shields.io/badge/PYTHON-ESTUDOS-2b7bb9?style=for-the-badge&logo=python&logoColor=white&labelColor=333333" alt="Python" /></a>
-  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories&q=&type=&language=javascript"><img src="https://img.shields.io/badge/JAVASCRIPT-ESTUDOS-f1c40f?style=for-the-badge&logo=javascript&logoColor=white&labelColor=333333" alt="JavaScript" /></a>
-  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories"><img src="https://img.shields.io/badge/NODE.JS-ESTUDOS-27ae60?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=333333" alt="Node.js" /></a>
-  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories&q=&type=&language=html"><img src="https://img.shields.io/badge/HTML5-ESTUDOS-e67e22?style=for-the-badge&logo=html5&logoColor=white&labelColor=333333" alt="HTML5" /></a>
-  <br/>
-  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories&q=&type=&language=css"><img src="https://img.shields.io/badge/CSS3-ESTUDOS-2980b9?style=for-the-badge&logo=css3&logoColor=white&labelColor=333333" alt="CSS3" /></a>
-  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories"><img src="https://img.shields.io/badge/GIT%20%26%20GITHUB-VERSIONAMENTO-e74c3c?style=for-the-badge&logo=git&logoColor=white&labelColor=333333" alt="Git & GitHub" /></a>
-</p>
+Plain Text
 
-<p align="center">
-  <b>Código • Aprendizado • Evolução</b><br/>
-  <sub>Sobre mim • Projetos • Tecnologias • Minha trilha • Contato</sub>
-</p>
 
-</div>
+┌──────────────────────────────────────────────────────────────┐
+│ perfil                                                       │
+├──────────────────────────────────────────────────────────────┤
+│ nome       : Keynan Fellipe dos Santos                      │
+│ ocupação   : Desenvolvedor em formação                      │
+│ formação   : SENAI Luiz Varga e SESI CE 005                 │
+│ localização: Brasil                                         │
+│ foco       : desenvolvimento web, back-end e bancos de dados│
+└──────────────────────────────────────────────────────────────┘
 
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050e06&stroke=22c55e&strokeWidth=2&height=70&text=Sobre%20mim&fontColor=22c55e&fontSize=22" width="100%" />
 
-```text
-🔴 🟡 🟢
+sobre_mim
 
-Sou estudante de Desenvolvimento de Sistemas no SENAI Luiz Varga e aluno do SESI CE 005.
-Estou a construir a minha base em tecnologia por meio de atividades acadêmicas, exercícios
-práticos e projetos de programação.
+Plain Text
 
-Tenho interesse em desenvolvimento web, back-end, lógica de programação e bancos de dados.
-Gosto de entender os problemas, dividir as soluções em partes menores e transformar o
-aprendizado em projetos funcionais e bem organizados.
 
-• Localização   : Brasil
-• Formação      : SENAI Luiz Varga e SESI CE 005
-• Momento atual : Desenvolvedor em formação
-```
+Sou estudante de Desenvolvimento de Sistemas no SENAI Luiz Varga
+ e aluno do SESI CE 005. Estou construindo minha base em tecnologia
+por meio de atividades acadêmicas, exercícios práticos e projetos
+ de programação.
 
-<br/>
+Gosto de entender os problemas, dividir as soluções em partes
+menores e transformar o aprendizado em projetos funcionais,
+organizados e bem documentados.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050e06&stroke=22c55e&strokeWidth=2&height=70&text=Projetos%20em%20destaque&fontColor=22c55e&fontSize=22" width="100%" />
 
-```text
-🔴 🟡 🟢
 
-📌 Lógica de Programação 2
-   Repositório acadêmico com atividades de programação, desenvolvimento web,
-   banco de dados e back-end.
-   Tecnologias: JavaScript, Node.js, HTML, CSS, Python e SQL.
+projetos_em_destaque
 
-📌 Projeto Discord
-   Projeto prático publicado como parte da minha jornada de estudos em programação.
+Plain Text
 
-📌 Todos os repositórios
-   Exercícios, estudos acadêmicos e projetos em constante evolução.
-```
 
-<br/>
+[01] lógica de programação 2
+     Repositório acadêmico com atividades de programação,
+     desenvolvimento web, banco de dados e back-end.
+     Tecnologias: JavaScript, Node.js, HTML, CSS, Python e SQL.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050e06&stroke=22c55e&strokeWidth=2&height=70&text=Tecnologias&fontColor=22c55e&fontSize=22" width="100%" />
+[02] projeto discord
+     Projeto prático publicado como parte da minha jornada
+     de estudos em programação.
 
-```text
-🔴 🟡 🟢
+[03] todos os repositórios
+     Exercícios, estudos acadêmicos e projetos em constante evolução.
 
-[ Programação ]        : Python e JavaScript
-[ Desenvolvimento web ]: HTML e CSS
-[ Back-end ]           : Node.js e npm
-[ Banco de dados ]     : SQL e modelagem de dados
-[ Versionamento ]      : Git e GitHub
-```
 
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050e06&stroke=22c55e&strokeWidth=2&height=70&text=Meu%20princ%C3%ADpio%20t%C3%A9cnico&fontColor=22c55e&fontSize=22" width="100%" />
-
-```text
-🔴 🟡 🟢
-
-Não quero apenas fazer algo funcionar. Quero entender o problema, organizar a solução,
-escrever código compreensível e registrar o que aprendi para melhorar na próxima versão.
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050e06&stroke=22c55e&strokeWidth=2&height=70&text=Minha%20trilha&fontColor=22c55e&fontSize=22" width="100%" />
-
-```text
-🔴 🟡 🟢
-
-Fundamentos  ───▶  Projetos práticos  ───▶  Web e back-end  ───▶  Desafios
-      ▲                    │                       │
-      └──── estudar ◀─────┴──── testar e documentar
-
-A cada atividade, procuro avançar em três dimensões:
-• Construir : Transformar conceitos em algo executável
-• Entender  : Aprender com os erros e decisões
-• Melhorar  : Comparar cada versão com a próxima
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050e06&stroke=22c55e&strokeWidth=2&height=70&text=Como%20aprendo%20e%20construo&fontColor=22c55e&fontSize=22" width="100%" />
-
-```text
-🔴 🟡 🟢
-
-[ Etapa 01 ] : Qual problema estou tentando resolver?
-[ Etapa 02 ] : Como posso dividir a ideia em partes menores?
-[ Etapa 03 ] : Quais conceitos preciso estudar ou revisar?
-[ Etapa 04 ] : Como posso testar se a solução funciona?
-[ Etapa 05 ] : O que posso melhorar na próxima versão?
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050e06&stroke=22c55e&strokeWidth=2&height=70&text=Pr%C3%B3ximos%20passos&fontColor=22c55e&fontSize=22" width="100%" />
-
-```text
-🔴 🟡 🟢
-
-Quero continuar evoluindo meus conhecimentos em desenvolvimento web, back-end e
-bancos de dados, transformando exercícios acadêmicos em projetos cada vez mais
-completos, organizados e bem documentados.
-
-Também busco ampliar meu repertório, melhorar a qualidade dos meus códigos e
-construir soluções que demonstrem minha evolução técnica.
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050e06&stroke=22c55e&strokeWidth=2&height=70&text=Estat%C3%ADsticas%20do%20GitHub&fontColor=22c55e&fontSize=22" width="100%" />
-
-<br/>
+tecnologias
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=estudantekeynan-lgtm&theme=dark&show_icons=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estudantekeynan-lgtm&theme=dark&layout=compact&locale=pt-br" alt="Linguagens mais utilizadas" />
+<a href="https://github.com/estudantekeynan-lgtm?tab=repositories&q=&type=&language=python"><img src="https://img.shields.io/badge/Python-ESTUDOS-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22" alt="Python" /></a>
+  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories&q=&type=&language=javascript"><img src="https://img.shields.io/badge/JavaScript-ESTUDOS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=161b22" alt="JavaScript" /></a>
+  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories&q=&type=&language=html"><img src="https://img.shields.io/badge/HTML5-ESTUDOS-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=161b22" alt="HTML5" /></a>
+  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories&q=&type=&language=css"><img src="https://img.shields.io/badge/CSS3-ESTUDOS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=161b22" alt="CSS3" /></a>
+  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories"><img src="https://img.shields.io/badge/Node.js-BACK--END-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=161b22" alt="Node.js" /></a>
+  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories"><img src="https://img.shields.io/badge/SQL-BANCO%20DE%20DADOS-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=161b22" alt="SQL" /></a>
+  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories"><img src="https://img.shields.io/badge/Git%20%26%20GitHub-VERSIONAMENTO-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=161b22" alt="Git e GitHub" /></a>
 </div>
 
-<br/>
+minha_trilha
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050e06&stroke=22c55e&strokeWidth=2&height=70&text=Contato&fontColor=22c55e&fontSize=22" width="100%" />
+Plain Text
 
-```text
-🔴 🟡 🟢
 
-• Email    : estudantekeynan@gmail.com
-• LinkedIn : [https://www.linkedin.com/in/keynan-fellipe-dos-santos-82b6ba405](https://www.linkedin.com/in/keynan-fellipe-dos-santos-82b6ba405)
-• GitHub   : [https://github.com/estudantekeynan-lgtm](https://github.com/estudantekeynan-lgtm)
+fundamentos  ────────>  projetos práticos  ────────>  web e back-end
+      ^                         |                            |
+      └──────── estudar ────────┴──────── testar e documentar ┘
 
-Estou sempre aberto a aprender, colaborar e conhecer novas oportunidades na área de tecnologia.
+construir : transformar conceitos em algo executável
+entender  : aprender com erros e decisões
+melhorar  : comparar cada versão com a próxima
 
-            Sempre aprendendo. Sempre evoluindo. Sempre programando.
-```
 
-ta dando  erro na api das estatistica arrume
+
+como_aprendo_e_construo
+
+Plain Text
+
+
+[01] Qual problema estou tentando resolver?
+[02] Como posso dividir a ideia em partes menores?
+[03] Quais conceitos preciso estudar ou revisar?
+[04] Como posso testar se a solução funciona?
+[05] O que posso melhorar na próxima versão?
+
+
+
+princípio_técnico
+
+Plain Text
+
+
+Não quero apenas fazer algo funcionar.
+Quero entender o problema, organizar a solução, escrever código
+compreensível e registrar o que aprendi para melhorar na próxima versão.
+
+
+
+estatísticas_do_github
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estudantekeynan-lgtm&theme=github_dark" alt="Resumo do perfil no GitHub" />
+  <img src="https://streak-stats.demolab.com?user=estudantekeynan-lgtm&theme=github-dark&hide_border=true" alt="Sequência de contribuições no GitHub" />
+</div>
+
+próximos_passos
+
+Plain Text
+
+
+continuar evoluindo em desenvolvimento web, back-end e bancos de dados;
+transformar exercícios acadêmicos em projetos completos;
+melhorar a qualidade, a organização e a documentação dos códigos;
+construir soluções que demonstrem minha evolução técnica.
+
+
+
+contato
+
+Plain Text
+
+
+email    : estudantekeynan@gmail.com
+linkedin : linkedin.com/in/keynan-fellipe-dos-santos-82b6ba405
+github   : github.com/estudantekeynan-lgtm
+
+
+
+<div align="center">
+<sub>Sempre aprendendo. Sempre evoluindo. Sempre programando.</sub>
+</div> <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=70&section=footer" width="100%" />
+</div>
+
