@@ -1,107 +1,75 @@
-<div align="center"> <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663921106151/FAgiMXntPBDtcqRg.gif" alt="Terminal digitando Keynan Santos" width="100%" />
+<div align="center">
 
-### Desenvolvedor em formação • Web • Back-end • Banco de Dados
+<!-- Cabeçalho Principal -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="180" viewBox="0 0 700 180">
+  <rect width="100%" height="100%" fill="#050e06" rx="10" stroke="#22c55e" stroke-width="2"/>
+  <circle cx="25" cy="25" r="5" fill="#ef4444"/>
+  <circle cx="40" cy="25" r="5" fill="#f59e0b"/>
+  <circle cx="55" cy="25" r="5" fill="#22c55e"/>
+  <rect x="635" y="15" width="20" height="20" rx="3" fill="#15803d"/>
+  <polygon points="643,20 651,25 643,30" fill="#ffffff"/>
+  <rect x="662" y="15" width="20" height="20" rx="3" fill="#15803d"/>
+  <path d="M667 27 L675 19 M670 19 L675 19 L675 24" stroke="#ffffff" stroke-width="2" fill="none"/>
+  <text x="50%" y="85" fill="#22c55e" font-family="'Fira Code', 'Courier New', monospace" font-size="34" font-weight="bold" text-anchor="middle">Keynan Santos</text>
+  <text x="50%" y="125" fill="#86efac" font-family="'Fira Code', 'Courier New', monospace" font-size="20" text-anchor="middle">Desenvolvedor em formação</text>
+  <text x="50%" y="155" fill="#4ade80" font-family="'Fira Code', 'Courier New', monospace" font-size="14" text-anchor="middle">Web | Backend | Banco de Dados</text>
+</svg>
 
-[![Python](https://img.shields.io/badge/Python-Estudos-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)[![JavaScript](https://img.shields.io/badge/JavaScript-Estudos-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)[![Node.js](https://img.shields.io/badge/Node.js-Estudos-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)[![HTML5](https://img.shields.io/badge/HTML5-Estudos-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)[![CSS3](https://img.shields.io/badge/CSS3-Estudos-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)[![Git](https://img.shields.io/badge/Git%20%26%20GitHub-Versionamento-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+<br/><br/>
 
-**Código • Aprendizado • Evolução**
+<!-- Sobre Mim -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="190" viewBox="0 0 700 190">
+  <rect width="100%" height="100%" fill="#050e06" rx="10" stroke="#22c55e" stroke-width="2"/>
+  <circle cx="25" cy="25" r="5" fill="#ef4444"/>
+  <circle cx="40" cy="25" r="5" fill="#f59e0b"/>
+  <circle cx="55" cy="25" r="5" fill="#22c55e"/>
+  <text x="35" y="65" fill="#22c55e" font-family="'Fira Code', 'Courier New', monospace" font-size="20" font-weight="bold">Sobre Mim</text>
+  <text x="35" y="105" fill="#86efac" font-family="'Fira Code', 'Courier New', monospace" font-size="15">• Desenvolvedor focado em Web, Backend e Banco de Dados</text>
+  <text x="35" y="135" fill="#86efac" font-family="'Fira Code', 'Courier New', monospace" font-size="15">• Criando projetos práticos e evoluindo habilidades de programação</text>
+  <text x="35" y="165" fill="#86efac" font-family="'Fira Code', 'Courier New', monospace" font-size="15">• Entusiasta do ecossistema Linux e ferramentas de software</text>
+</svg>
 
-</div> <p align="center">
-<a href="#sobre-mim">Sobre mim</a> •
-  <a href="#projetos-em-destaque">Projetos</a> •
-  <a href="#tecnologias">Tecnologias</a> •
-  <a href="#minha-trilha">Minha trilha</a> •
-  <a href="#contato">Contato</a>
+<br/><br/>
+
+<!-- Tecnologias e Ferramentas -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="220" viewBox="0 0 700 220">
+  <rect width="100%" height="100%" fill="#050e06" rx="10" stroke="#22c55e" stroke-width="2"/>
+  <circle cx="25" cy="25" r="5" fill="#ef4444"/>
+  <circle cx="40" cy="25" r="5" fill="#f59e0b"/>
+  <circle cx="55" cy="25" r="5" fill="#22c55e"/>
+  <text x="35" y="65" fill="#22c55e" font-family="'Fira Code', 'Courier New', monospace" font-size="20" font-weight="bold">Tecnologias &amp; Ferramentas</text>
+  <text x="35" y="105" fill="#22c55e" font-family="'Fira Code', 'Courier New', monospace" font-size="15" font-weight="bold">Backend:</text>
+  <text x="160" y="105" fill="#86efac" font-family="'Fira Code', 'Courier New', monospace" font-size="15">Python, Node.js</text>
+  <text x="35" y="135" fill="#22c55e" font-family="'Fira Code', 'Courier New', monospace" font-size="15" font-weight="bold">Frontend:</text>
+  <text x="160" y="135" fill="#86efac" font-family="'Fira Code', 'Courier New', monospace" font-size="15">HTML5, CSS3, JavaScript</text>
+  <text x="35" y="165" fill="#22c55e" font-family="'Fira Code', 'Courier New', monospace" font-size="15" font-weight="bold">Banco Dados:</text>
+  <text x="160" y="165" fill="#86efac" font-family="'Fira Code', 'Courier New', monospace" font-size="15">PostgreSQL, MySQL, SQLite</text>
+  <text x="35" y="195" fill="#22c55e" font-family="'Fira Code', 'Courier New', monospace" font-size="15" font-weight="bold">Ferramentas:</text>
+  <text x="160" y="195" fill="#86efac" font-family="'Fira Code', 'Courier New', monospace" font-size="15">Git, GitHub, VS Code, Linux</text>
+</svg>
+
+<br/><br/>
+
+<!-- Estatísticas do GitHub -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=estudantekeynan-lgtm&theme=matrix&show_icons=true&hide_border=false" alt="Estatísticas do GitHub" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estudantekeynan-lgtm&theme=matrix&layout=compact&hide_border=false" alt="Linguagens mais utilizadas" />
 </p>
 
----
+<br/>
 
-## Sobre mim
-
-Sou estudante de **Desenvolvimento de Sistemas no SENAI Luiz Varga** e aluno do **SESI CE 005**. Estou construindo minha base em tecnologia por meio de atividades acadêmicas, exercícios práticos e projetos de programação.
-
-Tenho interesse em desenvolvimento web, back-end, lógica de programação e bancos de dados. Gosto de entender os problemas, dividir as soluções em partes menores e transformar o aprendizado em projetos funcionais e bem organizados.
-
-| Localização | Formação | Momento atual |
-| --- | --- | --- |
-| Brasil | SENAI Luiz Varga e SESI CE 005 | Desenvolvedor em formação |
-
-## Projetos em destaque
-
-### [Lógica de Programação 2](https://github.com/estudantekeynan-lgtm/logica_de_programacao2)
-
-Repositório acadêmico com atividades de programação, desenvolvimento web, banco de dados e back-end.
-
-**Tecnologias:** JavaScript, Node.js, HTML, CSS, Python e SQL.
-
-### [Projeto Discord](https://github.com/estudantekeynan-lgtm/projeto_discord)
-
-Projeto prático publicado como parte da minha jornada de estudos em programação.
-
-### [Todos os repositórios](https://github.com/estudantekeynan-lgtm?tab=repositories)
-
-Exercícios, estudos acadêmicos e projetos em constante evolução.
-
-## Tecnologias
-
-| Área | Tecnologias |
-| --- | --- |
-| **Programação** | Python e JavaScript |
-| **Desenvolvimento web** | HTML e CSS |
-| **Back-end** | Node.js e npm |
-| **Banco de dados** | SQL e modelagem de dados |
-| **Versionamento** | Git e GitHub |
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
-## Meu princípio técnico
-
-> Não quero apenas fazer algo funcionar. Quero entender o problema, organizar a solução, escrever código compreensível e registrar o que aprendi para melhorar na próxima versão.
-
-## Minha trilha
-
-```
-Fundamentos  ───▶  Projetos práticos  ───▶  Web e back-end  ───▶  Novos desafios
-      ▲                    │                       │
-      └──── estudar ◀─────┴──── testar e documentar
-```
-
-A cada atividade, procuro avançar em três dimensões: **construir**, para transformar conceitos em algo executável; **entender**, para aprender com os erros e decisões; e **melhorar**, para comparar cada versão com a próxima.
-
-## Como aprendo e construo
-
-| Etapa | Pergunta que orienta o trabalho |
-| --- | --- |
-| **01** | Qual problema estou tentando resolver? |
-| **02** | Como posso dividir a ideia em partes menores? |
-| **03** | Quais conceitos preciso estudar ou revisar? |
-| **04** | Como posso testar se a solução funciona? |
-| **05** | O que posso melhorar na próxima versão? |
-
-## Próximos passos
-
-Quero continuar evoluindo meus conhecimentos em desenvolvimento web, back-end e bancos de dados, transformando exercícios acadêmicos em projetos cada vez mais completos, organizados e bem documentados.
-
-Também busco ampliar meu repertório, melhorar a qualidade dos meus códigos e construir soluções que demonstrem minha evolução técnica.
-
-## Meu GitHub
-
-Acompanhe meus repositórios, estudos e próximos projetos diretamente no [meu GitHub](https://github.com/estudantekeynan-lgtm).
-
-## Contato
-
-Estou sempre aberto a aprender, colaborar e conhecer novas oportunidades na área de tecnologia.
-
-<div align="center">
-
-[![Meu GitHub](https://img.shields.io/badge/Meu%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/estudantekeynan-lgtm)
-
-### Sempre aprendendo. Sempre evoluindo. Sempre programando.
-
-[Voltar ao topo](#sobre-mim)
+<!-- Contato -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="160" viewBox="0 0 700 160">
+  <rect width="100%" height="100%" fill="#050e06" rx="10" stroke="#22c55e" stroke-width="2"/>
+  <circle cx="25" cy="25" r="5" fill="#ef4444"/>
+  <circle cx="40" cy="25" r="5" fill="#f59e0b"/>
+  <circle cx="55" cy="25" r="5" fill="#22c55e"/>
+  <text x="35" y="65" fill="#22c55e" font-family="'Fira Code', 'Courier New', monospace" font-size="20" font-weight="bold">Contato</text>
+  <text x="35" y="105" fill="#22c55e" font-family="'Fira Code', 'Courier New', monospace" font-size="15" font-weight="bold">Email:</text>
+  <text x="140" y="105" fill="#86efac" font-family="'Fira Code', 'Courier New', monospace" font-size="15">estudantekeynan@gmail.com</text>
+  <text x="35" y="135" fill="#22c55e" font-family="'Fira Code', 'Courier New', monospace" font-size="15" font-weight="bold">LinkedIn:</text>
+  <text x="140" y="135" fill="#86efac" font-family="'Fira Code', 'Courier New', monospace" font-size="15">[linkedin.com/in/seu-perfil](https://www.linkedin.com/in/keynan-fellipe-dos-santos-82b6ba405/)</text>
+</svg>
 
 </div>
