@@ -7,6 +7,17 @@
   <code>Desenvolvedor em formação</code> • <code>Web</code> • <code>Back-end</code> • <code>Banco de Dados</code>
 </p>
 
+<!-- Botões de Tecnologias Funcionais -->
+<p align="center">
+  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories&q=&type=&language=python"><img src="https://img.shields.io/badge/PYTHON-ESTUDOS-2b7bb9?style=for-the-badge&logo=python&logoColor=white&labelColor=333333" alt="Python" /></a>
+  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories&q=&type=&language=javascript"><img src="https://img.shields.io/badge/JAVASCRIPT-ESTUDOS-f1c40f?style=for-the-badge&logo=javascript&logoColor=white&labelColor=333333" alt="JavaScript" /></a>
+  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories"><img src="https://img.shields.io/badge/NODE.JS-ESTUDOS-27ae60?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=333333" alt="Node.js" /></a>
+  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories&q=&type=&language=html"><img src="https://img.shields.io/badge/HTML5-ESTUDOS-e67e22?style=for-the-badge&logo=html5&logoColor=white&labelColor=333333" alt="HTML5" /></a>
+  <br/>
+  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories&q=&type=&language=css"><img src="https://img.shields.io/badge/CSS3-ESTUDOS-2980b9?style=for-the-badge&logo=css3&logoColor=white&labelColor=333333" alt="CSS3" /></a>
+  <a href="https://github.com/estudantekeynan-lgtm?tab=repositories"><img src="https://img.shields.io/badge/GIT%20%26%20GITHUB-VERSIONAMENTO-e74c3c?style=for-the-badge&logo=git&logoColor=white&labelColor=333333" alt="Git & GitHub" /></a>
+</p>
+
 <p align="center">
   <b>Código • Aprendizado • Evolução</b><br/>
   <sub>Sobre mim • Projetos • Tecnologias • Minha trilha • Contato</sub>
