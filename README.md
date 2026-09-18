@@ -142,9 +142,9 @@ construir soluções que demonstrem minha evolução técnica.
 <br/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=estudantekeynan-lgtm&theme=matrix&show_icons=true&hide_border=false" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=estudantekeynan-lgtm&theme=matrix&show_icons=true" alt="Estatísticas do GitHub" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estudantekeynan-lgtm&theme=matrix&layout=compact&hide_border=false" alt="Linguagens mais utilizadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estudantekeynan-lgtm&theme=matrix&layout=compact" alt="Linguagens mais utilizadas" />
 </p>
 
 <br/>
