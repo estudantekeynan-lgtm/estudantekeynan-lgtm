@@ -1,32 +1,38 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=KEYNAN%20FELLIPE&fontColor=58a6ff&fontSize=34&fontAlignY=55&desc=DESENVOLVEDOR%20EM%20FORMA%C3%87%C3%83O&descAlignY=78&descSize=15&descColor=c9d1d9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=58a6ff&strokeWidth=2&height=150&text=KEYNAN%20FELLIPE&fontColor=58a6ff&fontSize=38&desc=DESENVOLVEDOR%20EM%20FORMA%C3%87%C3%83O&descSize=18&descAlignY=70&descColor=c9d1d9" width="100%" />
 </div> <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-EM%20FORMA%C3%87%C3%83O-58a6ff?style=for-the-badge&labelColor=161b22" alt="Status: em formação" />
-  <img src="https://img.shields.io/badge/FOCO-WEB%20%7C%20BACK--END-58a6ff?style=for-the-badge&labelColor=161b22" alt="Foco: web e back-end" />
-  <img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-BRASIL-58a6ff?style=for-the-badge&labelColor=161b22" alt="Localização: Brasil" />
+  <code>terminal://keynan-fellipe</code>
+    
+  
+
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-3fb950?style=for-the-badge&labelColor=161b22" alt="Status online" />
+  <img src="https://img.shields.io/badge/FOCO-WEB%20%7C%20BACK--END-58a6ff?style=for-the-badge&labelColor=161b22" alt="Foco web e back-end" />
+  <img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-BRASIL-58a6ff?style=for-the-badge&labelColor=161b22" alt="Localização Brasil" />
 </div>   
-
-
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=58a6ff&strokeWidth=2&height=65&text=01%20%2F%20perfil&fontColor=58a6ff&fontSize=22" width="100%" />
 
 Plain Text
 
 
 ┌──────────────────────────────────────────────────────────────┐
-│ perfil                                                       │
+│ $ cat perfil.txt                                             │
 ├──────────────────────────────────────────────────────────────┤
-│ nome       : Keynan Fellipe dos Santos                      │
-│ ocupação   : Desenvolvedor em formação                      │
-│ formação   : SENAI Luiz Varga e SESI CE 005                 │
-│ localização: Brasil                                         │
-│ foco       : desenvolvimento web, back-end e bancos de dados│
+│ nome        : Keynan Fellipe dos Santos                     │
+│ ocupação    : Desenvolvedor em formação                     │
+│ formação    : SENAI Luiz Varga e SESI CE 005                │
+│ localização : Brasil                                        │
+│ foco        : web, back-end, lógica e bancos de dados       │
+│ status      : aprendendo, construindo e evoluindo           │
 └──────────────────────────────────────────────────────────────┘
 
 
 
-sobre_mim
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=58a6ff&strokeWidth=2&height=65&text=02%20%2F%20sobre_mim&fontColor=58a6ff&fontSize=22" width="100%" />
 
 Plain Text
 
+
+$ cat sobre-mim.txt
 
 Sou estudante de Desenvolvimento de Sistemas no SENAI Luiz Varga
  e aluno do SESI CE 005. Estou construindo minha base em tecnologia
@@ -39,28 +45,29 @@ organizados e bem documentados.
 
 
 
-projetos_em_destaque
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=58a6ff&strokeWidth=2&height=65&text=03%20%2F%20projetos&fontColor=58a6ff&fontSize=22" width="100%" />
 
 Plain Text
 
 
-[01] lógica de programação 2
-     Repositório acadêmico com atividades de programação,
-     desenvolvimento web, banco de dados e back-end.
-     Tecnologias: JavaScript, Node.js, HTML, CSS, Python e SQL.
+$ ls -la ./projetos
 
-[02] projeto discord
-     Projeto prático publicado como parte da minha jornada
-     de estudos em programação.
+drwxr-xr-x  logica-de-programacao-2/
+drwxr-xr-x  projeto-discord/
+drwxr-xr-x  repositorios-em-evolucao/
 
-[03] todos os repositórios
-     Exercícios, estudos acadêmicos e projetos em constante evolução.
+$ cat ./projetos/logica-de-programacao-2/README.txt
+Repositório acadêmico com atividades de programação,
+desenvolvimento web, banco de dados e back-end.
+Tecnologias: JavaScript, Node.js, HTML, CSS, Python e SQL.
+
+$ cat ./projetos/projeto-discord/README.txt
+Projeto prático publicado como parte da minha jornada
+de estudos em programação.
 
 
 
-tecnologias
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=58a6ff&strokeWidth=2&height=65&text=04%20%2F%20tecnologias&fontColor=58a6ff&fontSize=22" width="100%" /> <div align="center">
 <a href="https://github.com/estudantekeynan-lgtm?tab=repositories&q=&type=&language=python"><img src="https://img.shields.io/badge/Python-ESTUDOS-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22" alt="Python" /></a>
   <a href="https://github.com/estudantekeynan-lgtm?tab=repositories&q=&type=&language=javascript"><img src="https://img.shields.io/badge/JavaScript-ESTUDOS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=161b22" alt="JavaScript" /></a>
   <a href="https://github.com/estudantekeynan-lgtm?tab=repositories&q=&type=&language=html"><img src="https://img.shields.io/badge/HTML5-ESTUDOS-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=161b22" alt="HTML5" /></a>
@@ -70,25 +77,56 @@ tecnologias
   <a href="https://github.com/estudantekeynan-lgtm?tab=repositories"><img src="https://img.shields.io/badge/Git%20%26%20GitHub-VERSIONAMENTO-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=161b22" alt="Git e GitHub" /></a>
 </div>
 
-minha_trilha
+Plain Text
+
+
+$ cat stack.conf
+
+[linguagens]
+python       = estudos
+javascript   = estudos
+
+[web]
+html         = estudos
+css          = estudos
+
+[back-end]
+node.js      = estudos
+npm          = estudos
+
+[dados]
+sql          = estudos
+modelagem    = estudos
+
+[versionamento]
+git          = uso diário
+github       = colaboração e publicação
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=58a6ff&strokeWidth=2&height=65&text=05%20%2F%20minha_trilha&fontColor=58a6ff&fontSize=22" width="100%" />
 
 Plain Text
 
+
+$ ./trilha.sh
 
 fundamentos  ────────>  projetos práticos  ────────>  web e back-end
       ^                         |                            |
       └──────── estudar ────────┴──────── testar e documentar ┘
 
-construir : transformar conceitos em algo executável
-entender  : aprender com erros e decisões
-melhorar  : comparar cada versão com a próxima
+[build]    construir : transformar conceitos em algo executável
+[learn]    entender  : aprender com erros e decisões
+[update]   melhorar  : comparar cada versão com a próxima
 
 
 
-como_aprendo_e_construo
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=58a6ff&strokeWidth=2&height=65&text=06%20%2F%20processo&fontColor=58a6ff&fontSize=22" width="100%" />
 
 Plain Text
 
+
+$ ./processo-de-aprendizado.sh
 
 [01] Qual problema estou tentando resolver?
 [02] Como posso dividir a ideia em partes menores?
@@ -96,12 +134,16 @@ Plain Text
 [04] Como posso testar se a solução funciona?
 [05] O que posso melhorar na próxima versão?
 
+[processo] análise -> planejamento -> implementação -> teste -> melhoria
 
 
-princípio_técnico
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=58a6ff&strokeWidth=2&height=65&text=07%20%2F%20princ%C3%ADpio_t%C3%A9cnico&fontColor=58a6ff&fontSize=22" width="100%" />
 
 Plain Text
 
+
+$ cat principio-tecnico.txt
 
 Não quero apenas fazer algo funcionar.
 Quero entender o problema, organizar a solução, escrever código
@@ -109,39 +151,46 @@ compreensível e registrar o que aprendi para melhorar na próxima versão.
 
 
 
-estatísticas_do_github
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=58a6ff&strokeWidth=2&height=65&text=08%20%2F%20estat%C3%ADsticas&fontColor=58a6ff&fontSize=22" width="100%" /> <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estudantekeynan-lgtm&theme=github_dark" alt="Resumo do perfil no GitHub" />
   <img src="https://streak-stats.demolab.com?user=estudantekeynan-lgtm&theme=github-dark&hide_border=true" alt="Sequência de contribuições no GitHub" />
-</div>
-
-próximos_passos
+</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=58a6ff&strokeWidth=2&height=65&text=09%20%2F%20pr%C3%B3ximos_passos&fontColor=58a6ff&fontSize=22" width="100%" />
 
 Plain Text
 
 
-continuar evoluindo em desenvolvimento web, back-end e bancos de dados;
-transformar exercícios acadêmicos em projetos completos;
-melhorar a qualidade, a organização e a documentação dos códigos;
-construir soluções que demonstrem minha evolução técnica.
+$ cat proximos-passos.txt
+
+[ ] continuar evoluindo em desenvolvimento web
+[ ] aprofundar conhecimentos em back-end
+[ ] estudar bancos de dados e modelagem
+[ ] transformar exercícios em projetos completos
+[ ] melhorar a qualidade e a documentação dos códigos
+[ ] construir soluções que demonstrem evolução técnica
 
 
 
-contato
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=58a6ff&strokeWidth=2&height=65&text=10%20%2F%20contato&fontColor=58a6ff&fontSize=22" width="100%" />
 
 Plain Text
 
 
-email    : estudantekeynan@gmail.com
-linkedin : linkedin.com/in/keynan-fellipe-dos-santos-82b6ba405
-github   : github.com/estudantekeynan-lgtm
+$ cat contato.conf
+
+email    = estudantekeynan@gmail.com
+linkedin = linkedin.com/in/keynan-fellipe-dos-santos-82b6ba405
+github   = github.com/estudantekeynan-lgtm
+
+[info] Sempre aberto a aprender, colaborar e conhecer
+       novas oportunidades na área de tecnologia.
 
 
 
 <div align="center">
-<sub>Sempre aprendendo. Sempre evoluindo. Sempre programando.</sub>
-</div> <div align="center">
+<code>session_status: sempre aprendendo | sempre evoluindo | sempre programando</code>
+    
+  
+
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=70&section=footer" width="100%" />
 </div>
 
