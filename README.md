@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:4a4a4a&height=240&section=header&text=KEYNAN%20FELLIPE&fontSize=50&fontColor=f5f5f5&fontAlignY=40&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%E2%80%A2%20Web%20%E2%80%A2%20Back-end&descSize=17&descAlignY=62&descColor=bdbdbd" width="100%" />
+<img src="./header.svg" alt="Keynan Fellipe — Desenvolvedor em formação • Web • Back-end" width="100%" />
 </div>
 
 <div align="center">
