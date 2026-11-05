@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./headerr.svg" alt="Keynan Fellipe — Dev em formação, Web e Back-end" width="100%" />
+<img src="./header.svg" alt="Keynan Fellipe — Dev em formação, Web e Back-end" width="100%" />
 
 <a href="#sobre"><kbd>&nbsp;> KEYNAN_&nbsp;</kbd></a>&nbsp;&nbsp;
 <a href="#tecnologias"><kbd>&nbsp;[ TECH ]&nbsp;</kbd></a>
@@ -25,13 +25,7 @@
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  > sistema iniciado ................................ [ OK ]  │
-│  > usuário: keynan_fellipe                                   │
-│  > status : aprendendo, evoluindo, programando               │
-└──────────────────────────────────────────────────────────────┘
-```
+<img src="./terminal.svg" alt="> sistema iniciado [ OK ] — usuário: keynan_fellipe — status: aprendendo, evoluindo, programando" width="800" />
 
 </div>
 
@@ -158,13 +152,11 @@ Tenho interesse em **desenvolvimento web, back-end, lógica de programação e b
 
 <br/>
 
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│ > Não quero apenas fazer algo funcionar.                             │
-│ > Quero entender o problema, organizar a solução, escrever código    │
-│ > compreensível e registrar o que aprendi.                           │
-└──────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<img src="./quote.svg" alt="Não quero apenas fazer algo funcionar. Quero entender o problema, organizar a solução, escrever código compreensível e registrar o que aprendi." width="800" />
+
+</div>
 
 <br/><br/>
 
