@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:003b14,100:00ff41&height=3&section=header" width="100%" alt="" />
+<img src="./header.svg" alt="Keynan Fellipe — Dev em formação, Web e Back-end" width="100%" />
 
 <a href="#sobre"><kbd>&nbsp;> KEYNAN_&nbsp;</kbd></a>&nbsp;&nbsp;
 <a href="#tecnologias"><kbd>&nbsp;[ TECH ]&nbsp;</kbd></a>
@@ -8,11 +8,7 @@
 <a href="#metodo"><kbd>&nbsp;[ MÉTODO ]&nbsp;</kbd></a>
 <a href="#contato"><kbd>&nbsp;// FALAR COMIGO&nbsp;</kbd></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:003b14,100:00ff41&height=3&section=header" width="100%" alt="" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=46&duration=2500&pause=1500&color=00FF41&background=00000000&center=true&vCenter=true&width=900&height=90&letterSpacing=8px&lines=KEYNAN+FELLIPE;DEV+EM+FORMA%C3%87%C3%83O;WEB+%E2%80%A2+BACK-END" alt="KEYNAN FELLIPE" />
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=7CFF9B&background=00000000&center=true&vCenter=true&width=860&height=30&lines=%3E+estudante+de+Desenvolvimento+de+Sistemas+%40+SENAI+Luiz+Varga;%3E+aluno+do+SESI+CE+005;%3E+transformando+aprendizado+em+c%C3%B3digo_" alt="Apresentação" />
 
@@ -230,7 +226,7 @@ Tenho interesse em **desenvolvimento web, back-end, lógica de programação e b
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%24+while+true%3B+do+aprender%3B+done;sempre+aprendendo+%C2%B7+sempre+evoluindo+%C2%B7+sempre+programando" alt="Sempre aprendendo · sempre evoluindo · sempre programando" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,50:003b14,100:00ff41&height=3&section=header" width="100%" alt="" />
+<img src="./footer.svg" alt="" width="100%" />
 
 <sub><code>© 2026 keynan_fellipe — desenvolvido com café e código</code></sub>
 
