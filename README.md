@@ -1,130 +1,132 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:183b2a&height=220&section=header&text=Keynan%20Fellipe&fontSize=44&fontColor=f0f6fc&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Web%20%7C%20Back-end&descSize=17&descAlignY=58&descColor=9be7ae" width="100%" />
-</div> <div align="center">
-  <a href="https://github.com/estudantekeynan-lgtm"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=f0f6fc" alt="GitHub" /></a>
-  <a href="mailto:estudantekeynan@gmail.com"><img src="https://img.shields.io/badge/Email-183b2a?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/keynan-fellipe-dos-santos-82b6ba405"><img src="https://img.shields.io/badge/LinkedIn-245b3a?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
-</div>   
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:4a4a4a&height=240&section=header&text=KEYNAN%20FELLIPE&fontSize=50&fontColor=f5f5f5&fontAlignY=40&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%E2%80%A2%20Web%20%E2%80%A2%20Back-end&descSize=17&descAlignY=62&descColor=bdbdbd" width="100%" />
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&duration=3200&pause=900&color=F5F5F5&background=00000000&center=true&vCenter=true&width=620&lines=Estudante+de+Desenvolvimento+de+Sistemas;SENAI+Luiz+Varga+%E2%80%A2+SESI+CE+005;Transformando+aprendizado+em+c%C3%B3digo" alt="Texto animado" />
+</div>
 
+<br/>
 
-Olá, eu sou o Keynan
+<div align="center">
+  <a href="https://github.com/estudantekeynan-lgtm"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=f5f5f5" alt="GitHub" /></a>
+  <a href="mailto:estudantekeynan@gmail.com"><img src="https://img.shields.io/badge/Email-f5f5f5?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/keynan-fellipe-dos-santos-82b6ba405"><img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=f5f5f5" alt="LinkedIn" /></a>
+</div>
 
-Sou estudante de Desenvolvimento de Sistemas no SENAI Luiz Varga e aluno do SESI CE 005. Estou construindo minha base em tecnologia por meio de estudos, projetos práticos e desafios de programação.
+<br/>
 
-Tenho interesse em desenvolvimento web, back-end, lógica de programação e bancos de dados. Gosto de entender o problema, organizar a solução e transformar cada aprendizado em código mais claro e funcional.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=2&section=header" width="60%" />
+</div>
+
+## ▌ Olá, eu sou o Keynan
+
+Sou estudante de **Desenvolvimento de Sistemas no SENAI Luiz Varga** e aluno do **SESI CE 005**. Estou construindo minha base em tecnologia por meio de estudos, projetos práticos e desafios de programação.
+
+Tenho interesse em **desenvolvimento web, back-end, lógica de programação e bancos de dados**. Gosto de entender o problema, organizar a solução e transformar cada aprendizado em código mais claro e funcional.
 
 <div align="center">
 <table>
-    <tr>
-      <td align="center" width="220"><strong>Foco atual</strong>  
-Desenvolvimento web  
-e back-end</td>
-      <td align="center" width="220"><strong>Formação</strong>  
-SENAI Luiz Varga  
-SESI CE 005</td>
-      <td align="center" width="220"><strong>Localização</strong>  
-Brasil  
-Disponível para aprender</td>
-    </tr>
-  </table>
+  <tr>
+    <td align="center" width="220"><h3>🎯</h3><strong>FOCO ATUAL</strong><br/><sub>Desenvolvimento web<br/>e back-end</sub></td>
+    <td align="center" width="220"><h3>🎓</h3><strong>FORMAÇÃO</strong><br/><sub>SENAI Luiz Varga<br/>SESI CE 005</sub></td>
+    <td align="center" width="220"><h3>📍</h3><strong>LOCALIZAÇÃO</strong><br/><sub>Brasil<br/>Disponível para aprender</sub></td>
+  </tr>
+</table>
 </div>
 
-Tecnologias em estudo
+<br/>
+
+## ▌ Tecnologias em estudo
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,mysql,git,github&theme=dark" alt="Tecnologias: Python, JavaScript, HTML, CSS, Node.js, MySQL, Git e GitHub" />
-</div>   
- <div align="center">
-  <img src="https://img.shields.io/badge/Python-Estudos-2ea043?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-Estudos-2ea043?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-Estudos-2ea043?style=flat-square&logo=html5&logoColor=white" alt="HTML e CSS" />
-  <img src="https://img.shields.io/badge/Node.js-Back--end-2ea043?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/SQL-Bancos%20de%20dados-2ea043?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-Versionamento-2ea043?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </div>
 
-Projetos em destaque
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-Estudos-000000?style=for-the-badge&logo=python&logoColor=f5f5f5" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-Estudos-1a1a1a?style=for-the-badge&logo=javascript&logoColor=f5f5f5" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-Estudos-333333?style=for-the-badge&logo=html5&logoColor=f5f5f5" alt="HTML e CSS" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-Back--end-4a4a4a?style=for-the-badge&logo=node.js&logoColor=f5f5f5" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SQL-Bancos%20de%20dados-666666?style=for-the-badge&logo=mysql&logoColor=f5f5f5" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-Versionamento-f5f5f5?style=for-the-badge&logo=git&logoColor=000000" alt="Git" />
+</div>
+
+<br/>
+
+## ▌ Tracklist — Projetos em destaque
 
 <table>
-<tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>Lógica de Programação 2</h3>
+      <h3>🎞️ 01 · Lógica de Programação 2</h3>
       <p>Atividades acadêmicas envolvendo programação, desenvolvimento web, banco de dados e back-end.</p>
       <p><strong>Stack:</strong> JavaScript, Node.js, HTML, CSS, Python e SQL.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Projeto Discord</h3>
+      <h3>🎞️ 02 · Projeto Discord</h3>
       <p>Projeto prático desenvolvido durante minha jornada de estudos e evolução em programação.</p>
       <p><strong>Objetivo:</strong> transformar conhecimento em uma aplicação funcional.</p>
     </td>
   </tr>
 </table>
 
-Como eu aprendo
+<br/>
+
+## ▌ Backstage — Como eu aprendo
 
 <div align="center">
 <table>
-    <tr>
-      <td align="center" width="150"><strong>01</strong>  
-Entender  
-o problema</td>
-      <td align="center" width="150"><strong>02</strong>  
-Dividir  
-a solução</td>
-      <td align="center" width="150"><strong>03</strong>  
-Estudar  
-os conceitos</td>
-      <td align="center" width="150"><strong>04</strong>  
-Testar  
-o resultado</td>
-      <td align="center" width="150"><strong>05</strong>  
-Melhorar  
-a próxima versão</td>
-    </tr>
-  </table>
+  <tr>
+    <td align="center" width="150"><h2>01</h2><strong>Entender</strong><br/><sub>o problema</sub></td>
+    <td align="center" width="150"><h2>02</h2><strong>Dividir</strong><br/><sub>a solução</sub></td>
+    <td align="center" width="150"><h2>03</h2><strong>Estudar</strong><br/><sub>os conceitos</sub></td>
+    <td align="center" width="150"><h2>04</h2><strong>Testar</strong><br/><sub>o resultado</sub></td>
+    <td align="center" width="150"><h2>05</h2><strong>Melhorar</strong><br/><sub>a próxima versão</sub></td>
+  </tr>
+</table>
 </div>
 
+> Não quero apenas fazer algo funcionar. Quero entender o problema, organizar a solução, escrever código compreensível e registrar o que aprendi.
 
-Não quero apenas fazer algo funcionar. Quero entender o problema, organizar a solução, escrever código compreensível e registrar o que aprendi.
+<br/>
 
-GitHub em números
+## ▌ GitHub em números
 
 <div align="center">
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estudantekeynan-lgtm&theme=github_dark" alt="Resumo do perfil no GitHub" />
-    
-
-  <img height="165" src="https://streak-stats.demolab.com?user=estudantekeynan-lgtm&theme=dark&ring=2ea043&fire=3fb950&currStreakLabel=3fb950&sideLabels=9be7ae&currStreakNum=3fb950&sideNums=9be7ae&dates=86a789&background=0d1117&hide_border=true" alt="Sequência de contribuições no GitHub" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estudantekeynan-lgtm&theme=github_dark" alt="Resumo do perfil no GitHub" />
+  <img height="165" src="https://streak-stats.demolab.com?user=estudantekeynan-lgtm&theme=dark&ring=f5f5f5&fire=ffffff&currStreakLabel=f5f5f5&sideLabels=bdbdbd&currStreakNum=f5f5f5&sideNums=bdbdbd&dates=8a8a8a&background=000000&hide_border=true" alt="Sequência de contribuições no GitHub" />
 </div>
 
-Próximos passos
+<br/>
 
-•
-Evoluir em desenvolvimento web e back-end.
+## ▌ Setlist — Próximos passos
 
-•
-Aprofundar conhecimentos em bancos de dados.
+| # | Faixa |
+|:-:|:------|
+| 01 | Evoluir em desenvolvimento web e back-end |
+| 02 | Aprofundar conhecimentos em bancos de dados |
+| 03 | Transformar exercícios acadêmicos em projetos completos |
+| 04 | Melhorar a qualidade, a organização e a documentação dos códigos |
+| 05 | Construir soluções que demonstrem minha evolução técnica |
 
-•
-Transformar exercícios acadêmicos em projetos completos.
+<br/>
 
-•
-Melhorar a qualidade, a organização e a documentação dos códigos.
-
-•
-Construir soluções que demonstrem minha evolução técnica.
-
-Vamos conversar
+## ▌ Encore — Vamos conversar
 
 <div align="center">
-<a href="mailto:estudantekeynan@gmail.com"><img src="https://img.shields.io/badge/estudantekeynan%40gmail.com-183b2a?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email" /></a>
-  <a href="https://www.linkedin.com/in/keynan-fellipe-dos-santos-82b6ba405"><img src="https://img.shields.io/badge/LinkedIn-245b3a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>   
- <div align="center">
-  <sub>Sempre aprendendo · sempre evoluindo · sempre programando</sub>
-    
-  
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:183b2a,100:0d1117&height=100&section=footer" width="100%" />
+  <a href="mailto:estudantekeynan@gmail.com"><img src="https://img.shields.io/badge/estudantekeynan%40gmail.com-f5f5f5?style=for-the-badge&logo=gmail&logoColor=000000" alt="Enviar email" /></a>
+  <a href="https://www.linkedin.com/in/keynan-fellipe-dos-santos-82b6ba405"><img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=f5f5f5" alt="LinkedIn" /></a>
 </div>
 
+<br/>
+
+<div align="center">
+  <sub><code>Sempre aprendendo · sempre evoluindo · sempre programando</code></sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4a4a,50:1a1a1a,100:000000&height=120&section=footer" width="100%" />
