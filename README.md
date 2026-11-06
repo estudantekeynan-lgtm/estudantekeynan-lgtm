@@ -1,6 +1,3 @@
-<table width="100%" background="https://raw.githubusercontent.com/estudantekeynan-lgtm/estudantekeynan-lgtm/main/matrix.svg">
-<tr><td>
-
 <div align="center">
 
 <img src="./headerr.svg" alt="Keynan Fellipe — Dev em formação, Web e Back-end" width="100%" />
@@ -228,6 +225,3 @@ Tenho interesse em **desenvolvimento web, back-end, lógica de programação e b
 <sub><code>© 2026 keynan_fellipe — desenvolvido com café e código</code></sub>
 
 </div>
-
-</td></tr>
-</table>
