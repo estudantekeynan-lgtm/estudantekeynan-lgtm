@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./headerr.svg" alt="Keynan Fellipe — Dev em formação, Web e Back-end" width="100%" />
+<img src="./header.svg" alt="Keynan Fellipe — Dev em formação, Web e Back-end" width="100%" />
 
 <a href="#sobre"><kbd>&nbsp;> KEYNAN_&nbsp;</kbd></a>&nbsp;&nbsp;
 <a href="#tecnologias"><kbd>&nbsp;[ TECH ]&nbsp;</kbd></a>
@@ -175,7 +175,9 @@ Tenho interesse em **desenvolvimento web, back-end, lógica de programação e b
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=estudantekeynan-lgtm&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" width="95%" alt="Gráfico de atividade no GitHub" />
+<sub><code>// CONTRIBUIÇÕES NO ÚLTIMO ANO</code></sub>
+
+<img src="https://ghchart.rshah.org/00ff41/estudantekeynan-lgtm" width="85%" alt="Calendário de contribuições no GitHub" />
 
 </div>
 
