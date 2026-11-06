@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00ff41" stop-opacity="0.55"/>
+      <stop offset="0.45" stop-color="#00ff41" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#00ff41" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="rain" width="150" height="700" patternUnits="userSpaceOnUse">
+      <g fill="#00ff41" font-family="monospace" font-size="14" opacity="0.3">
+        <text x="8" y="70">0</text><text x="8" y="88">1</text><text x="8" y="106">0</text><text x="8" y="124">1</text><text x="8" y="142">1</text><text x="8" y="160">0</text>
+        <text x="54" y="205">1</text><text x="54" y="223">0</text><text x="54" y="241">1</text><text x="54" y="259">0</text><text x="54" y="277">1</text>
+        <text x="108" y="385">0</text><text x="108" y="403">1</text><text x="108" y="421">1</text><text x="108" y="439">0</text><text x="108" y="457">1</text><text x="108" y="475">0</text>
+      </g>
+      <path d="M12 48V180 M58 183V297 M112 363V495" stroke="url(#fade)" stroke-width="2"/>
+    </pattern>
+    <radialGradient id="vignette">
+      <stop offset="0" stop-color="#001b08" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.78"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="700" fill="#000000"/>
+  <rect width="900" height="700" fill="url(#rain)"/>
+  <rect width="900" height="700" fill="url(#vignette)"/>
+</svg>
